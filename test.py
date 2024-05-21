@@ -1,0 +1,1 @@
+print("hello, this is my new pc. I'm basically only testing if python works well here on pycharm.")
